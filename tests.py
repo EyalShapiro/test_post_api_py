@@ -7,7 +7,7 @@ payload = {
     "body": "bar",
     "url": "https://jsonplaceholder.typicode.com/posts",
     "userId": 1,
-    # "err": {"massages": "Specific Error in response: error", "id": "1"},
+    "err": {"massages": "Specific Error in response: error", "id": "1"},
 }
 
 
